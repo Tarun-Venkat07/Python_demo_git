@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions on Windows!")
+print("This message comes from a pull request!")
